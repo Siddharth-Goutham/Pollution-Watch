@@ -1,0 +1,6 @@
+{
+  "name": "EcoAudit Civic Portal",
+  "description": "An AI-driven civic air quality monitoring platform that orchestrates multi-agent audits, fuses citizen photo reports with OpenAQ sensor data via OpenRouter, and dispatches municipal resources to localized hotspots.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
