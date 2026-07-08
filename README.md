@@ -336,22 +336,6 @@ OPENROUTER_API_KEY="go to https://openrouter.ai and get your api keys"
 > ⚠️ Never commit your `.env` file or expose `GEMINI_API_KEY` in
 > client-side code.
 
-### 3. Configure Database (Optional)
-
-By default, the app falls back to a local database stored in:
-
-``` text
-db.json
-```
-
-To persist data permanently, place your Firebase web configuration
-inside a file named:
-
-``` text
-firebase-applet-config.json
-```
-
-in the root folder of the project.
 
 ### 4. Run the App
 
