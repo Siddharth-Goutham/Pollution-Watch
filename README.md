@@ -318,7 +318,7 @@ protects API keys from browser exposure.
 
 ``` bash
 git clone <your-repository-url>
-cd PollutionWatch
+cd Pollution-Watch
 npm install
 ```
 
