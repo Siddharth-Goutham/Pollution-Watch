@@ -377,7 +377,8 @@ taken**---while keeping citizens connected to the resolution process.
 ------------------------------------------------------------------------
 
 <div align="center">
-🌍 PollutionWatch
+
+## 🌍 PollutionWatch
 
 **Citizen evidence. Multi-agent intelligence. Municipal action.**
 
