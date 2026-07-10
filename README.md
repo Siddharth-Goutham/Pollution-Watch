@@ -333,10 +333,6 @@ OPENROUTER_API_KEY="go to https://openrouter.ai and get your api keys"
 
 ```
 
-> ⚠️ Never commit your `.env` file or expose `GEMINI_API_KEY` in
-> client-side code.
-
-
 ### 4. Run the App
 
 Start the development server:
